@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "309012364477",
+    "firebase_url": "https://housefire-bec45-default-rtdb.firebaseio.com",
+    "project_id": "housefire-bec45",
+    "storage_bucket": "housefire-bec45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309012364477:android:fabc52404ff2a57ae1cbd4",
+        "android_client_info": {
+          "package_name": "com.example.espfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYCF5CmYqEE6i16cd3KnwcN3jjD1SdG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
